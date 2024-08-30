@@ -1,4 +1,5 @@
 Grace Hogan
+
 🖥️ Software Developer 🎓 Modern Languages and Business Studies Graduate
 
 After pivoting from Languages into the world of Tech, I am working as an API Developer whilst developing my skills through personal projects.
