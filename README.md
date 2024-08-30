@@ -1,4 +1,7 @@
-## Hi there 👋
+Grace Hogan
+🖥️ Software Developer 🎓 Modern Languages and Business Studies Graduate
+
+After pivoting from Languages into the world of Tech, I am working as an API Developer whilst developing my skills through personal projects.
 
 <!--
 **gracehogan/gracehogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
